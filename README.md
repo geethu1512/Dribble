@@ -1,4 +1,4 @@
-![ex 10 output](https://github.com/user-attachments/assets/e0aa3a94-3829-4da9-8bfa-410f077863f3)# Project Responsive Web Design using Bootstrap
+# Project Responsive Web Design using Bootstrap
 ## Name: GEETHU R
 ## Register No.: 212224040089
 ## Date:24-05-2025
